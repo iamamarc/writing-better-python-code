@@ -80,9 +80,6 @@ class Application:
         # create a vehicle
         return registry.create_vehicle(brand)
 
-        # print out the vehicle registration information
-        vehicle.print()
-
 
 app = Application()
 vehicle = app.register_vehicle("BMW 5")
