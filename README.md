@@ -6,3 +6,4 @@ as explained by Arjan Codes
 ## Concepts
 
 - Cohesion and Coupling 
+- Dependency Inversion
